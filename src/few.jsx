@@ -1,9 +1,9 @@
 import React from 'react'
 
-const few = () => {
+const few2 = () => {
   return (
-    <div>few</div>
+    <div className='build'>fewis more powerfull</div>
   )
 }
 
-export default few
+export default few2
