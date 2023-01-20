@@ -1,3 +1,3 @@
-let array = ["123", "456", "789"];
-delete array[0];
+console.log("Effective");
+console.log("Version is going to change")
 

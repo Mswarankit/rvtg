@@ -1,9 +1,11 @@
-import React from 'react'
+import React, { Components } from 'react';
 
-const few2 = () => {
-  return (
-    <div className='build'>fewis more powerfull</div>
-  )
+export default class extends Component {
+    render(){
+        return (
+            <div>
+                <h2> Welcome to React components </h2>
+            </div>
+        )
+    }
 }
-
-export default few2
